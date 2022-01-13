@@ -10,9 +10,9 @@ I have a keen interest in Machine Learning techniques, Artificial Intelligence. 
 
 In this specific project, based on given raw data, my goal is to predict airline fares using machine learning models.
 
-●	A given raw table with airline information includes sources, dates, prices, and the number of stops for a given flight.
-●	Learning and implementing linear regression, random forest, KNN machine learning algorithms.
-●	Focusing on statistical analysis, including decision trees, cross-validation, and label-encoding.
+-	A given raw table with airline information includes sources, dates, prices, and the number of stops for a given flight.
+-	Learning and implementing linear regression, random forest, KNN machine learning algorithms.
+-	Focusing on statistical analysis, including decision trees, cross-validation, and label-encoding.
 
 The following ideas are also explored to learn more about the the process involved in real-world data science projects:
 1. Defining the problem
