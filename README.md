@@ -6,7 +6,7 @@ Contributer: Danial Khan
 
 https://www.udemy.com/course/data-science-real-world-projects-in-python-x/
 
-I have a keen interest in Machine Learning techniques, Artificial Intelligence. Therefore to explore further I took the course mentioned previously. I showcase my understanding of git, python, jupyter, and various python frameworks such as Pandas, Matplotlib, Numpy, etc.
+I have a keen interest in Machine Learning techniques, Artificial Intelligence. Therefore to explore further I took the course mentioned previously. I showcase my understanding of git, python, jupyter, and various python frameworks such as Pandas, Matplotlib, Numpy, Sci-kit Learn etc.
 
 In this specific project, based on given raw data, my goal is to predict airline fares using machine learning models.
 
